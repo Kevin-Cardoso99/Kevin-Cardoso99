@@ -1,7 +1,9 @@
 |Olá meu nome é Kevin Cardoso|
 <br>
 |Tenho 22 anos|
+<br>
 |Graduando em Engenharia de Software|
+<br>
 |Estudando HTML, CSS, JavaScript|
 
 <!---
